@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "isaa",
+      "database": "${workspaceFolder:isaa-project}/backend/database.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
